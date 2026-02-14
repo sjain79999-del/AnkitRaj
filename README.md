@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tanishka ❤️</title>
+<title>Ankit ❤️</title>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Dancing+Script:wght@600&display=swap" rel="stylesheet">
 <style>
 
@@ -229,7 +229,7 @@ button { cursor:pointer; transition:0.3s; }
 <body>
 <div class="container" id="mainContent">
 <div class="bear">🐻</div>
-<h1>Will You Be My Valentine, Tanishka? ❤️</h1>
+<h1>Will You Be My Valentine, Ankit? ❤️</h1>
 <div class="subtitle">I've been gathering courage to ask you this... because you make me crazy in the best way possible 💕</div>
 <p>Every love story is beautiful, but ours is my favourite.</p>
 <div class="buttons">
@@ -240,7 +240,7 @@ button { cursor:pointer; transition:0.3s; }
 <div class="celebration" id="celebration">
 <div>Yayyyyy!! 🎉</div>
 <div class="spin">💖</div>
-<div>I knew you'd say yes, Tanishka… you’re stuck with me forever now 😌❤️</div>
+<div>I knew you'd say yes, Ankit you’re stuck with me forever now 😌❤️</div>
 </div>
 <script>
 
